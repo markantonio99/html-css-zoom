@@ -17,7 +17,7 @@ Img{
 
 /* fine preset */
 
-.section-layout{
+.main-content{
     width: 1933px;
     height: 922px;
     background-color: black;
@@ -25,12 +25,22 @@ Img{
     Margin: 0 auto;
 }
 
-.main-layout{
-    width: 1827px;
+
+
+.section{
+    width: 1824px;
     min-height: 821px;
     background-color: blue;
     padding: 10px;
 }
+
+
+.container{
+
+    
+}
+
+
 
 
 
