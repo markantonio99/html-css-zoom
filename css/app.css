@@ -8,37 +8,77 @@ Img{
     Max-width: 100%;
     }
 
-.container{
+/* .container{
     Max-width: 900px;
     Margin: 0 auto;
-    } 
+    }  */
 
 
 
 /* fine preset */
 
-.main-content{
+/* .main-content{
     width: 1933px;
     height: 922px;
     background-color: black;
-    padding: 100px 100px;
     Margin: 0 auto;
-}
 
 
+} */
 
+
+/* 
 .section{
-    width: 1824px;
-    min-height: 821px;
     background-color: blue;
-    padding: 10px;
+    max-width: 1500px;
+    max-height: 700px;
+    background-color: white;
+    Margin: 0 auto;
+} */
+
+
+/* .container{
+   
+    background-color: blue;
+    width: 1500px;
+    height: 700px;
+    max-width: auto;
+    padding: 40px 0px;
+
+} */
+
+.row{
+  
+    background-color: white;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100vw;
+    height: 100vh;
+   
+   
+   
 }
 
 
-.container{
+.col-2{
+    flex-basis: calc(100% * (2 / 12));
+    background-image: url("https://www.purina.it/sites/default/files/2021-12/condividere-immagini-cani-social.jpg");
+    background-size: cover;
+    max-width: 220px;
 
-    
+
 }
+
+.img{
+ }
+
+
+
+
+
+
+
 
 
 
