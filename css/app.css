@@ -1,0 +1,36 @@
+*{
+    Margin:0:
+    Padding: 0;
+    Box-size: border-box;
+}
+    
+Img{
+    Max-width: 100%;
+    }
+
+.container{
+    Max-width: 900px;
+    Margin: 0 auto;
+    } 
+
+
+
+/* fine preset */
+
+.section-layout{
+    width: 1933px;
+    height: 922px;
+    background-color: black;
+    padding: 100px 100px;
+    Margin: 0 auto;
+}
+
+.main-layout{
+    width: 1827px;
+    min-height: 821px;
+    background-color: blue;
+    padding: 10px;
+}
+
+
+
